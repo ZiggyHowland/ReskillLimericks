@@ -1,0 +1,5 @@
+A group of enthusiastic Java students
+astonished by the scope of Java docs
+But they soon realized
+and got fully amazed
+when Andy started speaking about reg ex
